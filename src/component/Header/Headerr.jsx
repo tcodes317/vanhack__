@@ -3,15 +3,15 @@ import "../Header/Header.css";
 function Headerr(){
     return(
         <>
-            <div className="xlg:relative xlg:pt-16 xlg:px-4">
+            <div className="xlg:relative xlg:pt-16 xxxs:pt-16 xlg:px-4">
                 <div className="xlg:flex xlg:justify-between">
-                    <div className="xlg:flex xlg:justify-between xlg:w-7/12 xlg:flex-col xlg:bg-slate-300 xlg:h-11/12">
+                    <div className="xlg:flex xlg:justify-between xlg:w-7/12 xlg:flex-col xxxs:space-y-12 xlg:h-11/12">
                         <div>
-                            <h1 className="xlg:text-4xl xlg:font-bold xlg:w-8/12">Instantly connect with senior tech talent</h1>
-                            <div className="xlg:pt-2 xlg:text-xl">Hire tech talent that gets promoted</div>
+                            <h1 className="xlg:text-4xl xlg:font-bold xlg:w-8/12 xxxs:text-6xl xxxs:font-bold xxxs:pb-2">Instantly connect with senior tech talent</h1>
+                            <div className="xlg:pt-2 xlg:text-xl xxxs:text-xl xxxs:w-8/12">Hire tech talent that gets <span className="xxxs:font-bold xxxs:underline">promoted</span></div>
                         </div>
                         <div className="xlg:relative">
-                            <button className="xlg:p-3 xlg:bg-black">
+                            <button className="xlg:p-4 xxxs:rounded-full xlg:bg-black xlg:text-white xlg:text-xl xxxs:p-4 xxxs:bg-black xxxs:text-white xxxs:w-full xlg:w-auto xlg:px-6 xlg:rounded-full">
                                 <span>Find Candidate Now</span>
                             </button>
                         </div>
@@ -22,8 +22,8 @@ function Headerr(){
                         </div>
                     </div>
                     <div className="xlg:relative">
-                        <div className="xlg:flex xlg:flex-col">
-                            <div className="xlg:flex xlg:flex-row">
+                        <div className="xlg:flex xlg:flex-col xlg:bg-white xlg:p-4">
+                            <div className="xlg:flex xlg:flex-row xxxs:flex">
                                 <div id="img_i">
                                     <img src="https://vanhackblobstorageprod.blob.core.windows.net/profileimages/edae6ad7-e97c-47ee-81a1-da6bb1877367.jpg" alt="" />
                                 </div>
