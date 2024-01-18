@@ -38,7 +38,7 @@ function Main_i(){
                             <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Build your team cost-effectively</h1>
                             <div className="xlg:text-xl xxxs:text-center">Tap into remote global hiring, make critical hires and maximize your hiring budget during times of uncertainly. On average, we've helped employers reduce hiring costs by 30%!</div>
                             <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
-                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full font-bold">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ function Main_i(){
                             <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Hire diverse tech talent</h1>
                             <div className="xlg:text-xl xxxs:text-center">VanHack can help you build diverse, multicultural technical teams. We also work with employers to bridge the gender gap in technology through women-focused hiring events and initiatives.</div>
                             <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
-                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full uppercase font-bold">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ function Main_i(){
                             <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Global mobility made easy</h1>
                             <div className="xlg:text-xl xxxs:text-center">Our in-house global mobility experts helps with your new hire's visa and relocation process. VanHack also supports remote, hybrid or full-remote roles.</div>
                             <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
-                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full uppercase font-bold">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
