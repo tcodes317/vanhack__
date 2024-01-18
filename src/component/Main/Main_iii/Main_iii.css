@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#img{
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 250px;
+    border: 1px solid;
+    position: relative;
+}
+.i{
+    background-image: url(https://vanhackblobstorageprod.blob.core.windows.net/profileimages/2d7460f3-5eec-4165-a001-97bd179934d7.jpg);
+}
+.ii{
+    background-image: url(https://vanhackblobstorageprod.blob.core.windows.net/profileimages/49f0f2c47-21e7-4f6a-bc0a-b822f340b78d.jpg);
+}
+.iii{
+    background-image: url(https://vanhackblobstorageprod.blob.core.windows.net/profileimages/beddcc44-5a80-4de3-bfa5-b59b9e604e09.jpg);
+}
+.iv{
+    background-image: url();
+}
+#svg_i{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    fill: #fff;
+}

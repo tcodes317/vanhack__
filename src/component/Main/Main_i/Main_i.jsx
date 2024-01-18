@@ -25,50 +25,47 @@ function Main_i(){
                         </div>
                     </div>
                 </div>
-                <div className="xlg:pt-8 xlg:pb-20">
+                <div className="xlg:pt-8 xlg:pb-20 xxxs:pb-20">
                     <h1 className="xlg:text-center xlg:font-bold xlg:text-4xl xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-5">Global tech hiring that works with your budget</h1>
                     <div className="xlg:text-center xlg:pt-3 xlg:text-lg xxxs:mx-3 xlg:mx-0 xxxs:text-center">The fastest, cost-effective way to find candidate and fill your open tech roles</div>
                 </div>
-                <div className="xlg:relative xlg:space-y-20">
-                    <div className="xlg:flex bg-white xlg:space-x-4">
-                        <div className="xlg:w-8/12">
+                <div className="xlg:relative xlg:space-y-20 xxxs:space-y-8">
+                    <div className="xlg:flex bg-slate-200 xxxs:p-3 xxxs:py-10 xxxs:rounded-lg xlg:space-x-4">
+                        <div className="xlg:w-8/12 xlg:block xxxs:hidden">
                             <img src="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=3840&q=100" srcSet="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=640&q=100 640w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=750&q=100 750w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=828&q=100 828w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=1080&q=100 1080w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=1200&q=100 1200w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=1920&q=100 1920w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=2048&q=100 2048w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2F10ffe76f-c959-4a9f-3227-1b151dc17d00%2Fpublic&w=3840&q=100 3840w" alt="Build your team cost-effectively" />
                         </div>
                         <div className="xlg:text-center">
-                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6">Build your team cost-effectively</h1>
-                            <div className="xlg:text-xl">Tap into remote global hiring, make critical hires and maximize your hiring budget during times of uncertainly. On average, we've helped employers reduce hiring costs by 30%!</div>
-                            <div className="xlg:relative xlg:my-12">
-                                <button className="xlg:uppercase xlg:p-3 xlg:bg-blue-600 xlg:text-white xlg:px-8 xlg:rounded-full">Hire Tech Talent</button>
+                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Build your team cost-effectively</h1>
+                            <div className="xlg:text-xl xxxs:text-center">Tap into remote global hiring, make critical hires and maximize your hiring budget during times of uncertainly. On average, we've helped employers reduce hiring costs by 30%!</div>
+                            <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
-
-                    <div className="xlg:flex bg-white xlg:space-x-4">
-                        <div className="xlg:w-8/12 xlg:order-1">
+                    <div className="xlg:flex bg-slate-200 xxxs:p-3 xxxs:py-10 xxxs:rounded-lg xlg:space-x-4">
+                        <div className="xlg:w-8/12 xlg:order-1 xlg:block xxxs:hidden">
                             <img src="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=3840&q=100" srcSet="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=640&q=100 640w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=750&q=100 750w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=828&q=100 828w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1080&q=100 1080w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1200&q=100 1200w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1920&q=100 1920w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=2048&q=100 2048w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=3840&q=100 3840w" alt="Hire diverse tech talent" />
                         </div>
                         <div className="xlg:text-center">
-                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6">Hire diverse tech talent</h1>
-                            <div className="xlg:text-xl">VanHack can help you build diverse, multicultural technical teams. We also work with employers to bridge the gender gap in technology through women-focused hiring events and initiatives.</div>
-                            <div className="xlg:relative xlg:my-12">
-                                <button className="xlg:uppercase xlg:p-3 xlg:bg-blue-600 xlg:text-white xlg:px-8 xlg:rounded-full">Hire Tech Talent</button>
+                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Hire diverse tech talent</h1>
+                            <div className="xlg:text-xl xxxs:text-center">VanHack can help you build diverse, multicultural technical teams. We also work with employers to bridge the gender gap in technology through women-focused hiring events and initiatives.</div>
+                            <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
-                    
-                    <div className="xlg:flex bg-white xlg:space-x-4">
-                        <div className="xlg:w-8/12">
+                    <div className="xlg:flex bg-slate-200 xxxs:p-3 xxxs:py-10 xxxs:rounded-lg xlg:space-x-4">
+                        <div className="xlg:w-8/12 xlg:block xxxs:hidden">
                             <img src="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=3840&q=100" srcSet="/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=640&q=100 640w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=750&q=100 750w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=828&q=100 828w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1080&q=100 1080w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1200&q=100 1200w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=1920&q=100 1920w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=2048&q=100 2048w, /_next/image?url=https%3A%2F%2Fimagedelivery.net%2FIMKzfq9hQBlnlWnrcjL00w%2Fcf87ee18-9558-4b60-a126-9d2073f2d000%2Fpublic&w=3840&q=100 3840w" alt="Global mobility made easy" />
                         </div>
                         <div className="xlg:text-center">
-                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6">Global mobility made easy</h1>
-                            <div className="xlg:text-xl">Our in-house global mobility experts helps with your new hire's visa and relocation process. VanHack also supports remote, hybrid or full-remote roles.</div>
-                            <div className="xlg:relative xlg:my-12">
-                                <button className="xlg:uppercase xlg:p-3 xlg:bg-blue-600 xlg:text-white xlg:px-8 xlg:rounded-full">Hire Tech Talent</button>
+                            <h1 className="xlg:text-4xl xlg:font-bold xlg:pb-6 xxxs:text-center xxxs:font-bold xxxs:text-3xl xxxs:pb-3">Global mobility made easy</h1>
+                            <div className="xlg:text-xl xxxs:text-center">Our in-house global mobility experts helps with your new hire's visa and relocation process. VanHack also supports remote, hybrid or full-remote roles.</div>
+                            <div className="xlg:relative my-12 xlg:mx-auto xxxs:flex xxxs:justify-center">
+                                <button className="xlg:uppercase p-3 bg-blue-600 text-white px-8 rounded-full">Hire Tech Talent</button>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </>
