@@ -1,13 +1,36 @@
 @charset "UTF-8";
 
-#img{
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 250px;
-    border: 1px solid;
-    position: relative;
+@media (min-width: 150px){
+    #img{
+        background-size: cover;
+        background-position: center;
+        width: 100% !important;
+        height: 250px;
+        border: 1px solid;
+        position: relative;
+    }
+    #dot{
+        width: 15px;
+        height: 15px;
+        border-radius: 100px;
+        background-color: #d3d3d3;
+    }
+    .active{
+        width: 35px !important;
+        background-color: lightblue !important;
+    }
 }
+@media (min-width: 1024px){
+    #img{
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 250px;
+        border: 1px solid;
+        position: relative;
+    }
+}
+
 .i{
     background-image: url(https://vanhackblobstorageprod.blob.core.windows.net/profileimages/2d7460f3-5eec-4165-a001-97bd179934d7.jpg);
 }
@@ -21,7 +44,7 @@
     background-image: url(https://vanhackblobstorageprod.blob.core.windows.net/profileimages/13bad008b-185b-4cac-a1b0-04d24720f8d0.jpeg);
 }
 .v{
-    
+
 }
 #svg_i{
     position: absolute;
